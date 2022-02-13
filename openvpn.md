@@ -5,6 +5,7 @@ Hi! If you want to learn more about IT world so you subscribe my  channel  [**Te
  
 
 ## Install and Configure OpenVPN on AWS EC2 and make a VPN connection 
+### youtube video [**link**](https://youtu.be/-8qySFJ5z7o)
 
  
 ### EC2 configuration

@@ -12,5 +12,8 @@ Hi! If you want to learn more about IT world so you subscribe my  channel  [**Te
 Differences between Virtualisation/VMs and docker)
 [**Video Link**](https://www.youtube.com/watch?v=43SuPYqk-eo)
 - Docker tutorial series - video no. 2 (understanding of main components)
- [**Video Link**](https://www.youtube.com/watch?v=ON9by9zU6h0&t=7s),
+ [**Video Link**](https://www.youtube.com/watch?v=ON9by9zU6h0&t=7s)
+- Docker tutorial series - video no. 3 (Docker tutorial series - video no. 3 | Lab| Docker run command in detail)
+ [**Video Link**](https://www.youtube.com/watch?v=bKTyniZyHBI)
+
 

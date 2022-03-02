@@ -2,6 +2,7 @@
 
 Hi! If you want to learn more about IT world so you subscribe my  channel  [**TechPark**](https://www.youtube.com/channel/UClM-3NJDYp8GKMlQ0tgIjUg) 
 
+This is a video tutorial!
  
 
 ## Index

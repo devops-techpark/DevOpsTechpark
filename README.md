@@ -78,4 +78,8 @@ Differences between Virtualisation/VMs and docker)
  
  [!["Docker tutorial series video no. 6 (CompleDocker life cycle in less than 5 minute)"](https://img.youtube.com/vi/Mr77-64dbo0/0.jpg))](https://www.youtube.com/watch?v=Mr77-64dbo0-Y "Docker tutorial series video no. 6 (CompleDocker life cycle in less than 5 minute)")
  
+- <b> docker port mapping/forwarding in easy way | Theory
+[**Video Link**](https://www.youtube.com/watch?v=MGjUUvztFs0)
+[![docker port mapping/forwarding in easy way | Theory](https://img.youtube.com/vi/MGjUUvztFs0/0.jpg)](https://www.youtube.com/watch?v=MGjUUvztFs0-Y "docker port mapping/forwarding in easy way | Theory")
+
 

@@ -1,6 +1,6 @@
 # Welcome to TechPark repository!
 
-Hi! If you want to learn more about IT and DevOps, Subscribe my  channel  [**TechPark**](https://www.youtube.com/channel/UClM-3NJDYp8GKMlQ0tgIjUg) 
+Hi! If you want to learn more about IT and DevOps, Subscribe my  channel  [**DevOps TechPark**](https://www.youtube.com/channel/UClM-3NJDYp8GKMlQ0tgIjUg) 
 
  
 

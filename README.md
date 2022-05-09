@@ -27,6 +27,10 @@ Differences between Virtualisation/VMs and docker)
 [**Video Link**](https://www.youtube.com/watch?v=LUS7R95Yr8w)
 - Docker tutorial series video no. 9 | Port expose VS Port Forwarding
 [**Video Link**](https://www.youtube.com/watch?v=aQCnko7tfwM)
+- Docker tutorial series video no. 10 | BASIC DOCKER NETWORKING
+[**Video Link**](https://www.youtube.com/watch?v=XUJu6wMfAuE)
+- Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container
+[**Video Link**](https://www.youtube.com/watch?v=sDRwyOMqF04), [**Commands**](https://github.com/devops-techpark/DevOps-Techpark/blob/main/two-tier-wordpress-on-docker.md)
 
 
 
@@ -106,6 +110,6 @@ Differences between Virtualisation/VMs and docker)
  
  
 - <b> Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container
-[**Video Link**](https://www.youtube.com/watch?v=sDRwyOMqF04)
+[**Video Link**](https://www.youtube.com/watch?v=sDRwyOMqF04), [**Commands**](https://github.com/devops-techpark/DevOps-Techpark/blob/main/two-tier-wordpress-on-docker.md)
 
-[![Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container](https://img.youtube.com/vi/sDRwyOMqF04/0.jpg)](https://www.youtube.com/watch?v=sDRwyOMqF04-Y "Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container") [**Code Link**](https://github.com/devops-techpark/DevOps-Techpark/blob/main/two-tier-wordpress-on-docker.md)
+[![Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container](https://img.youtube.com/vi/sDRwyOMqF04/0.jpg)](https://www.youtube.com/watch?v=sDRwyOMqF04-Y "Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container")

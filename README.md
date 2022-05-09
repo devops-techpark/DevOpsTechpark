@@ -108,4 +108,4 @@ Differences between Virtualisation/VMs and docker)
 - <b> Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container
 [**Video Link**](https://www.youtube.com/watch?v=sDRwyOMqF04)
 
-[![Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container](https://img.youtube.com/vi/sDRwyOMqF04/0.jpg)](https://www.youtube.com/watch?v=sDRwyOMqF04-Y "Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container")
+[![Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container](https://img.youtube.com/vi/sDRwyOMqF04/0.jpg)](https://www.youtube.com/watch?v=sDRwyOMqF04-Y "Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container") [**Code Link**](https://github.com/devops-techpark/DevOps-Techpark/blob/main/two-tier-wordpress-on-docker.md)

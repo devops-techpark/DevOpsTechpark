@@ -30,9 +30,9 @@ Differences between Virtualisation/VMs and docker)
 - Docker tutorial series video no. 10 | BASIC DOCKER NETWORKING
 [**Video Link**](https://www.youtube.com/watch?v=XUJu6wMfAuE)
 - Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container
-[**Video Link**](https://www.youtube.com/watch?v=UQW32oLLkXk) 
-- Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes
 [**Video Link**](https://www.youtube.com/watch?v=sDRwyOMqF04), [**Commands**](https://github.com/devops-techpark/DevOps-Techpark/blob/main/two-tier-wordpress-on-docker.md)
+[**Video Link**](https://www.youtube.com/watch?v=UQW32oLLkXk)
+- Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes
 
 
 

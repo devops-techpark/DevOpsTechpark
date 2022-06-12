@@ -113,3 +113,9 @@ Differences between Virtualisation/VMs and docker)
 [**Video Link**](https://www.youtube.com/watch?v=sDRwyOMqF04), [**Commands**](https://github.com/devops-techpark/DevOps-Techpark/blob/main/two-tier-wordpress-on-docker.md)
 
 [![Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container](https://img.youtube.com/vi/sDRwyOMqF04/0.jpg)](https://www.youtube.com/watch?v=sDRwyOMqF04-Y "Docker tutorial series video no. 11 | Run multi container app in docker | wordpress in container")
+ 
+ - <b> Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes
+[**Video Link**](https://www.youtube.com/watch?v=UQW32oLLkXk)
+
+[![Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes](https://img.youtube.com/vi/UQW32oLLkXk/0.jpg)](https://www.youtube.com/watch?v=UQW32oLLkXk-Y "Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes")
+

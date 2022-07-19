@@ -121,3 +121,5 @@ Differences between Virtualisation/VMs and docker)
 
 [![Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes](https://img.youtube.com/vi/UQW32oLLkXk/0.jpg)](https://www.youtube.com/watch?v=UQW32oLLkXk-Y "Docker tutorial series video no. 12 | Docker Volumes and Bind mount  |  useful commands for volumes")
 
+ 
+
